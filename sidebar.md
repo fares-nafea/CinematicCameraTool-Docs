@@ -1,12 +1,12 @@
-* [Home](/)
-* Getting started
+* [🏠 Home](/)
+* 🚀 Getting started
   * [Overview](getting-started.md)
-  * [Installation](installation.md)
-  * [Your first shot](your-first-shot.md)
-* [Interface overview](interface-overview.md)
-* [Timeline and shots](timeline-and-shots.md)
-* [Transitions](transitions.md)
-* Camera tools
+  * [📥 Installation](installation.md)
+  * [🎯 Your first shot](your-first-shot.md)
+* [🧭 Interface overview](interface-overview.md)
+* [🎞 Timeline and shots](timeline-and-shots.md)
+* [🔀 Transitions](transitions.md)
+* 🎥 Camera tools
   * [Overview](camera-tools.md)
   * [Presets](presets.md)
   * [Look At](look-at.md)
@@ -14,13 +14,13 @@
   * [Rig](rig.md)
   * [Shake](shake.md)
   * [Advanced Shake](advanced-shake.md)
-* [Camera paths](camera-paths.md)
-* [Recording](recording.md)
-* [Export camera data](export-camera-data.md)
-* MP4 export
+* [🛤 Camera paths](camera-paths.md)
+* [🔴 Recording](recording.md)
+* [📦 Export camera data](export-camera-data.md)
+* 🎬 MP4 export
   * [Overview](mp4-export.md)
   * [Setup](mp4-setup.md)
   * [Exporting](mp4-exporting.md)
   * [Troubleshooting](mp4-troubleshooting.md)
-* [FAQ](faq.md)
-* [Changelog](changelog.md)
+* [❓ FAQ](faq.md)
+* [🆕 Changelog](changelog.md)
